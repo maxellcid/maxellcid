@@ -7,7 +7,12 @@ I'm a new front-end developer
     Web design: HTML5, CSS3 & adobe (Photoshop Illustrator)
     
     - 🌱 I’m currently learning ...
-
+    
+    - 📫 How to reach me: ...
+    
+    [Twitter] https://twitter.com/Maxellcid
+    [LinkedIn] https://www.linkedin.com/in/arnulfo-rafael-d%C3%ADaz-ariza-a5936926/
+    
 
 <!--
 **maxellcid/maxellcid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
