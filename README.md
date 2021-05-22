@@ -4,14 +4,30 @@ I'm a new front-end developer
 
 💻 Skills
 
-    Web design: HTML5, CSS3 & adobe (Photoshop Illustrator)
+    Web design: 
+    :heavy_check_mark: HTML5
+    :heavy_check_mark: CSS3
+    :heavy_check_mark: Adobe (Photoshop, Illustrator)
     
     - 🌱 I’m currently learning ...
     
+    - [x] Html
+    - [x] Css
+    - [x] Javascript
+    - [ ] Node.js
+    - [ ] Python
+    - [ ] Git
+    - [ ] Sql Mysql Nosql 
+    - [ ] Mongo db
+    - [ ] React Native 
+    - [ ] kotlin (android)
+
     - 📫 How to reach me: ...
     
     [Twitter] https://twitter.com/Maxellcid
     [LinkedIn] https://www.linkedin.com/in/arnulfo-rafael-d%C3%ADaz-ariza-a5936926/
+    http://github.com - automatic!
+    [GitHub](http://github.com)
     
 
 <!--
@@ -27,5 +43,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ 	:venezuela:
+:heavy_check_mark:
 -->
 
